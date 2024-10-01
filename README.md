@@ -23,4 +23,4 @@
 * git push origin admin
 
 ## Como posso acessar o site?
-### Você pode acessar o site atraves deste link: https://rayssa1maely.github.io/Reposit-rio-Loja_de_hardware_P1/
+### Você pode acessar o site atraves do link dele, que se encontra na descrição do projeto. 
