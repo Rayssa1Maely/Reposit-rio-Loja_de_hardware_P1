@@ -1,0 +1,1 @@
+//integação de um chat gpt
